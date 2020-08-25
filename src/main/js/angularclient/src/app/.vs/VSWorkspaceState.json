@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\item-form",
+    "\\item-list",
+    "\\item-update",
+    "\\login",
+    "\\model",
+    "\\monthlyreport",
+    "\\service",
+    "\\weeklyreport"
+  ],
+  "SelectedNode": "\\item-form\\item-form.component.html",
+  "PreviewInSolutionExplorer": false
+}
